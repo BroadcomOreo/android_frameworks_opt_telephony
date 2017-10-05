@@ -92,7 +92,6 @@ import com.android.internal.telephony.gsm.SuppServiceNotification;
 import com.android.internal.telephony.metrics.TelephonyMetrics;
 import com.android.internal.telephony.nano.TelephonyProto.SmsSession;
 import com.android.internal.telephony.uicc.IccRefreshResponse;
->>>>>>> parent of a37dfbea8... Remove rild sockets.
 import com.android.internal.telephony.uicc.IccUtils;
 
 import java.io.ByteArrayInputStream;
